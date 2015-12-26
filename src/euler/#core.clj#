@@ -44,6 +44,9 @@
           (filter some?
                   (map factors-large-number (naturals)))))
 
+(defn euler-project-3 []
+  (take 1 prime-factor))
+
 (defn palindrome? [x]
   (let [lazy-seq-x (lazy-seq (str x))]
     (loop [i 0 j (- (count lazy-seq-x) 1)]

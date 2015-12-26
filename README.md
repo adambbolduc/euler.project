@@ -1,36 +1,18 @@
 # euler
 
-FIXME: description
+This is a clojure version of the solutions of euler project's problem.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/adambbolduc/euler.project.git
 
-## Usage
-
-FIXME: explanation
-
-    $ java -jar euler-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
 
 ### Bugs
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Not giving away by bugs, sorry.
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright 2015 
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+You are free to do whatever you need to do with that code, as long as you mention that it's not absolutly yours.
